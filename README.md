@@ -11,7 +11,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Risc-lt&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Risc-lt&theme=xcode" /> </div>
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Risc-lt.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
 
 
