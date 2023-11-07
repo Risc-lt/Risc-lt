@@ -9,6 +9,8 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **Next Step:**
 Assambly --> Operating System --> Computer Orgnazation --> Database --> ?
 
+![image](https://github.com/Risc-lt/Risc-lt/blob/main/IMG/CS_mindmap.png)
+
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
