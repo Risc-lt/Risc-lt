@@ -15,7 +15,10 @@
 
 
 <h1 align="center">Hello 👋, I'm Risc-lt from UM-JI SJTU! ʕ •ᴥ•ʔ 🎯️🚀️</h1>
-<h3 align="center">Hey it's me Abhinadan Raj.I have a keen interest in DSA, Java and Web Development and have a huge fascination with the inner workings of technology.</h3>
+<h3 align="center">Hey it's me Risc_lt. A trival student from SJTU majoring in Electric and Computer Engineering. Having dipped basic cpp, python, data_stucture, deep_learning and neural_network, I'm now enthusiastic about software and system, as well as web_development.</h3>
+
+**Next Step:**
+![Picture]("C:\Users\阮乐天\Desktop\图片\Programming.png")
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
