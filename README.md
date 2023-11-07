@@ -2,9 +2,9 @@
 
 <h1 align="center">Hello 👋, I'm Risc-lt from UM-JI SJTU! ʕ •ᴥ•ʔ 🎯️🚀️</h1>
 
-<div align="center"> <img src="https://metrics.lecoq.io/Risc-lt?template=classic&config.timezone=Asia%2FShanghai"> </div>
-
 <h3 align="center">Hey! it's me \ Risc_lt /. A trival student from SJTU majoring in Electric and Computer Engineering. Having dipped basic cpp, python, data_stucture, deep_learning and neural_network, I'm now enthusiastic about software and system, as well as web_development.</h3>
+
+<div align="center"> <img src="https://metrics.lecoq.io/Risc-lt?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **Next Step:**
 Assambly --> Operating System --> Computer Orgnazation --> Database --> ?
