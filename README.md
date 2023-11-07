@@ -9,7 +9,7 @@
 
 <div align="center"> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </div>
 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Risc-lt" /> </div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Risc-lt&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Risc-lt&theme=xcode" /> </div>
 
