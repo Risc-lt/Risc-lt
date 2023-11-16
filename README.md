@@ -6,7 +6,7 @@
 
 <div align="center"> <img src="https://metrics.lecoq.io/Risc-lt?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **Next Step:**
+## **Next Step:**
 Assembly --> Operating System --> Computer Orgnazation --> Database --> ?
 
 ![image](https://github.com/Risc-lt/Risc-lt/blob/main/IMG/CS_mindmap.png)
