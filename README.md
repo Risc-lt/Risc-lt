@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello 👋, I'm Risc-lt from UM-JI SJTU! ʕ •ᴥ•ʔ 🎯️🚀️</h1>
 
-<h3 align="center">Hey! it's me \ Risc_lt /. A trival student from SJTU majoring in Electric and Computer Engineering. Having dipped basic cpp, python, data_stucture, deep_learning and neural_network, I'm now enthusiastic about software and system, as well as web_development.</h3>
+<h3 align="center">Hey! it's me \ Risc_lt /. A trivial student from SJTU majoring in Electric and Computer Engineering. Having dipped basic cpp, python, data_stucture, deep_learning and neural_network, I'm now enthusiastic about software and system, as well as web_development.</h3>
 
 <div align="center"> <img src="https://metrics.lecoq.io/Risc-lt?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
@@ -15,7 +15,7 @@ Assembly --> Operating System --> Computer Orgnazation --> Database --> ?
 
 ## **About Me:**
 
-- 🔭 I’m currently working with **Cpp** , **Python** and **HTML.**
+- 🔭 I’m currently working with **Cpp** , **Python** and **JavaScript.**
 - 🌱 I’m currently learning **UCB CS61C (Risc-V)** and **Stanford CS142 (Web).**
 - 👯 I’m looking to collaborate on **Assembly Projects.**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/Risc-lt?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Risc-lt" height="30" width="40" /></a>
