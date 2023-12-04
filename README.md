@@ -4,7 +4,7 @@
 
 <h3 align="center">Hey! it's me \ Risc_lt /. A trivial student from SJTU majoring in Electric and Computer Engineering. Having dipped basic cpp, python, data_stucture, deep_learning and neural_network, I'm now enthusiastic about software and system, as well as web_development.</h3>
 
-<div align="center"> <img src="https://metrics.lecoq.io/Risc-lt?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<div align="center"> <img src="[https://metrics.lecoq.io/Risc-lt?template=classic&config.timezone=Asia%2FShanghai](https://metrics.lecoq.io/insights/Risc-lt)"> </div>
 
 ## **Next Step:**
 Assembly --> Operating System --> Computer Orgnazation --> Database --> ?
