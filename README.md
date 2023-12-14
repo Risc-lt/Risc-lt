@@ -4,7 +4,7 @@
 
 <h3 align="center">Hey! it's me \ Risc_lt /. A trivial student from SJTU majoring in Electric and Computer Engineering. Having dipped basic cpp, python, data_stucture, deep_learning and neural_network, I'm now enthusiastic about software and system, as well as web_development.</h3>
 
-![image](https://github.com/Risc-lt/Risc-lt/blob/main/IMG/Handwrite.png)
+![image](https://github.com/Risc-lt/Risc-lt/blob/main/IMG/Handwrite.jpg)
 
 ## **Next Step:**
 Assembly --> Operating System --> Computer Orgnazation --> Database --> ?
