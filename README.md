@@ -4,7 +4,8 @@
 
 <h3 align="center">Hey! it's me \ Risc_lt /. A trivial student from SJTU majoring in Electric and Computer Engineering. Having dipped basic cpp, python, data_stucture, deep_learning and neural_network, I'm now enthusiastic about software and system, as well as web_development.</h3>
 
-<div align="center"> <img src="https://metrics.lecoq.io/Risc-lt?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<!--签名-->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=也许灵魂是灰色，但生活永远是彩色~~🎈🎈🎈&author=Risc_lt">
 
 ## **Next Step:**
 Assembly --> Operating System --> Computer Orgnazation --> Database --> ?
