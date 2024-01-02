@@ -2,12 +2,12 @@
 
 <h1 align="center">Hello 👋, I'm Risc-lt from UM-JI SJTU! ʕ •ᴥ•ʔ 🎯️🚀️</h1>
 
-<h3 align="center">Hey! it's me \ Risc_lt /. A trivial student from SJTU majoring in Electric and Computer Engineering. Having dipped basic cpp, python, data_stucture, deep_learning and neural_network, I'm now enthusiastic about software and system, as well as web_development.</h3>
+<h3 align="center">Hey! it's me \ Risc_lt /. A trivial student from SJTU majoring in Electric and Computer Engineering. Having dipped basic Cpp, Python, Web decelopment, Deep learning and Risc_V, I'm now enthusiastic about Software and Network, as well as Operation system.</h3>
 
 ![image](https://github.com/Risc-lt/Risc-lt/blob/main/IMG/Handwrite.jpg)
 
 ## **Next Step:**
-Assembly --> Operating System --> Computer Orgnazation --> Database --> ?
+Computer System / Software Engineering / Operation System / Database / Cryptography / Computer Graphics / ? ? ?
 
 ![image](https://github.com/Risc-lt/Risc-lt/blob/main/IMG/CS_mindmap.png)
 
@@ -16,8 +16,8 @@ Assembly --> Operating System --> Computer Orgnazation --> Database --> ?
 ## **About Me:**
 
 - 🔭 I’m currently working with **Cpp** , **Python** and **JavaScript.**
-- 🌱 I’m currently learning **UCB CS61C (Risc-V)** and **Stanford CS142 (Web).**
-- 👯 I’m looking to collaborate on **Assembly Projects.**
+- 🌱 I’m currently learning **CMU CS15-213.**
+- 👯 I’m looking to collaborate on **Computer System.**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/Risc-lt?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Risc-lt" height="30" width="40" /></a>
 - 📫 How to reach me: **Ruan_lt@outlook.com**
 - 💬 Ask for help with **JavaScript, HTML, CSS and TCP/IP**
@@ -36,7 +36,7 @@ Assembly --> Operating System --> Computer Orgnazation --> Database --> ?
 ## **Reach out to me:** ️
 
 <p align="center">
-<a href="https://github.com/Risc-lt" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="abhinandanraj" /></a>
+<a href="https://risc-lt.github.io)" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="abhinandanraj" /></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Risc-lt&label=Visitors&color=0088cc&style=flat-square" alt="abhinandanraj" /> </p>
 
 ## **Github Stats:**
@@ -61,8 +61,8 @@ Assembly --> Operating System --> Computer Orgnazation --> Database --> ?
   	   <li><b>OS:</b> Windows 11 </li>
 	     <li><b>Laptop: </b> Lenovo Legion y7000p (Maybe Macbook Air in the few months)</li>
   	   <li><b>Browser: </b> Google Browser</li>
-	     <li><b>Code Editor:</b> VSCode / Clion / Pycharm / Webstorm</li>
-	     <li><b>To Stay Updated:</b> November 11th 2023</li>
+	     <li><b>Code Editor:</b> VSCode / Clion / Pycharm / IntelliJ / Vim </li>
+	     <li><b>To Stay Updated:</b> January 2nd 2023</li>
 	    <br />
 	</ul>
 </details>
