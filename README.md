@@ -36,7 +36,7 @@ Computer System / Software Engineering / Operation System / Database / Cryptogra
 ## **Reach out to me:** ️
 
 <p align="center">
-<a href="https://risc-lt.github.io)" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="abhinandanraj" /></a>
+<a href="https://risc-lt.github.io" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="abhinandanraj" /></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Risc-lt&label=Visitors&color=0088cc&style=flat-square" alt="abhinandanraj" /> </p>
 
 ## **Github Stats:**
