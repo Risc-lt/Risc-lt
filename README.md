@@ -62,7 +62,7 @@ Computer System / Software Engineering / Operation System / Database / Cryptogra
 	     <li><b>Laptop: </b> Lenovo Legion y7000p (Maybe Macbook Air in the few months)</li>
   	   <li><b>Browser: </b> Google Browser</li>
 	     <li><b>Code Editor:</b> VSCode / Clion / Pycharm / IntelliJ / Vim </li>
-	     <li><b>To Stay Updated:</b> January 2nd 2023</li>
+	     <li><b>To Stay Updated:</b> January 2nd 2024</li>
 	    <br />
 	</ul>
 </details>
