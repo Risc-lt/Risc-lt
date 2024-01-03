@@ -58,7 +58,7 @@ Computer System / Software Engineering / Operation System / Database / Cryptogra
   <br />
   <summary>⚙️ <b> Things I use to get stuff done</b></summary>
   	<ul>
-  	   <li><b>OS:</b> Windows 11 </li>
+  	   <li><b>OS:</b> Windows 11 / Ubuntu 20.04(wsl2+docker) </li>
 	     <li><b>Laptop: </b> Lenovo Legion y7000p (Maybe Macbook Air in the few months)</li>
   	   <li><b>Browser: </b> Google Browser</li>
 	     <li><b>Code Editor:</b> VSCode / Clion / Pycharm / IntelliJ / Vim </li>
