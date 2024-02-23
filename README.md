@@ -16,11 +16,11 @@ Computer System / Software Engineering / Operation System / Database / Cryptogra
 ## **About Me:**
 
 - 🔭 I’m currently working with **Cpp** , **Python** and **JavaScript.**
-- 🌱 I’m currently learning **CMU CS15-213.**
+- 🌱 I’m currently learning **MIT 6.s081.**
 - 👯 I’m looking to collaborate on **Computer System.**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/Risc-lt?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Risc-lt" height="30" width="40" /></a>
 - 📫 How to reach me: **Ruan_lt@outlook.com**
-- 💬 Ask for help with **JavaScript, HTML, CSS and TCP/IP**
+- 💬 Ask for help with **OS, Assembly, Concurrency and Network**
 
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Risc-lt&theme=radical&hide_border=true"/>
@@ -61,8 +61,8 @@ Computer System / Software Engineering / Operation System / Database / Cryptogra
   	   <li><b>OS:</b> Windows 11 / Ubuntu 20.04(wsl2+docker) </li>
 	     <li><b>Laptop: </b> Lenovo Legion y7000p (Maybe Macbook Air in the few months)</li>
   	   <li><b>Browser: </b> Google Browser</li>
-	     <li><b>Code Editor:</b> VSCode / Clion / Pycharm / IntelliJ / Vim </li>
-	     <li><b>To Stay Updated:</b> January 2nd 2024</li>
+	     <li><b>Code Editor:</b> VSCode / Clion / Pycharm / IntelliJ / Nvim </li>
+	     <li><b>To Stay Updated:</b> February 23th 2024</li>
 	    <br />
 	</ul>
 </details>
