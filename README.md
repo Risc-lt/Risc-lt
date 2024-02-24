@@ -1,8 +1,8 @@
 ![image](https://github.com/Risc-lt/Risc-lt/blob/main/IMG/Programming.png)
 
-<h1 align="center">Hello 👋, I'm Risc-lt from UM-JI SJTU! ʕ •ᴥ•ʔ 🎯️🚀️</h1>
+<h1 align="center">Hello 👋, I'm Risc-lt from UM-JI SJTU! 🎯️🚀️</h1>
 
-<h3 align="center">Hey! it's me \ Risc_lt /. A trivial student from SJTU majoring in Electric and Computer Engineering. Having dipped basic Cpp, Python, Web decelopment, Deep learning and Risc_V, I'm now enthusiastic about Software and Network, as well as Operation system.</h3>
+<h3 align="center">Hey! it's me \ Risc_lt /. A trivial student from SJTU majoring in Electrical and Computer Engineering. Having dipped Deep Learning, Web development, Computer Organization, Network and Computer System, I'm now enthusiastic about Operating System and Database, as well as Compilation.</h3>
 
 ![image](https://github.com/Risc-lt/Risc-lt/blob/main/IMG/Handwrite.jpg)
 
