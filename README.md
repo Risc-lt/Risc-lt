@@ -7,7 +7,7 @@
 ![image](https://github.com/Risc-lt/Risc-lt/blob/main/IMG/Handwrite.jpg)
 
 ## **Next Step:**
-Computer System / Software Engineering / Operation System / Database / Cryptography / Computer Graphics / ? ? ?
+Computer System / Software Engineering / Computing Infrastruture / Database / Cryptography / Computer Graphics / Robotics / ? ? ?
 
 ![image](https://github.com/Risc-lt/Risc-lt/blob/main/IMG/CS_mindmap.png)
 
