@@ -45,7 +45,7 @@
 	     <li><b>Laptop: </b> Lenovo Legion y7000p (Maybe Macbook Air in the few months)</li>
   	   <li><b>Browser: </b> Google Browser</li>
 	     <li><b>Code Editor:</b> VSCode / Clion / Pycharm / IntelliJ / Nvim </li>
-	     <li><b>To Stay Updated:</b> February 23th 2024</li>
+	     <li><b>To Stay Updated:</b> February 25th 2024</li>
 	    <br />
 	</ul>
 </details>
