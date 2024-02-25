@@ -7,7 +7,7 @@
 
 🌏 I’m currently woring on **xv6-Risc-V**, **nemu**, **Tiger** and **mini-lsm**.
 
-📜 I'm a big fan of **Golden State Warrior** and I enjoy listenning to **popular music** as well as playing **vedio games**.
+📜 I'm a big fan of **Golden State Warrior** and I enjoy listenning to **popular music** as well as playing **video games**.
 
 🤖 I'm used to being strictly **organized on a schedule** and pretty annoyed if any sudden interrupt.
 
