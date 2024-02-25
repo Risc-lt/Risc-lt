@@ -6,7 +6,7 @@
 
 <h3 align="center">Having dipped Deep Learning, Web development, Computer Organization, Network and Computer System, I'm now enthusiastic about Operating System and Database, as well as Compilation.</h3>
 
-![image](https://github.com/Risc-lt/Risc-lt/blob/main/IMG/Handwrite.jpg)
+<img src="[https://github.com/Risc-lt/Risc-lt/blob/main/IMG/Handwrite.jpg]" width = "1000" height = "200" align=center />
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
