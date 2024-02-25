@@ -8,11 +8,6 @@
 
 ![image](https://github.com/Risc-lt/Risc-lt/blob/main/IMG/Handwrite.jpg)
 
-## **Next Step:**
-Computer System / Software Engineering / Computing Infrastruture / Database / Cryptography / Computer Graphics / Robotics / ? ? ?
-
-![image](https://github.com/Risc-lt/Risc-lt/blob/main/IMG/CS_mindmap.png)
-
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
 ## **About Me:**
@@ -27,6 +22,11 @@ Computer System / Software Engineering / Computing Infrastruture / Database / Cr
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Risc-lt&theme=radical&hide_border=true"/>
 </p>
+
+## **Next Step:**
+Computer System / Software Engineering / Computing Infrastruture / Database / Cryptography / Computer Graphics / Robotics / ? ? ?
+
+![image](https://github.com/Risc-lt/Risc-lt/blob/main/IMG/CS_mindmap.png)
 
 ## **Languages & Tools:**
 
