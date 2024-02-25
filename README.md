@@ -1,9 +1,5 @@
 ![image](https://github.com/Risc-lt/Risc-lt/blob/main/IMG/Programming.png)
 
-<h1 align="center">Hello 👋, I'm Risc-lt from UM-JI SJTU! 🎯️🚀️</h1>
-
-<h3 align="center">Hey! it's me \ Risc_lt /. A trivial student from SJTU majoring in Electrical and Computer Engineering.</h3>
-
 ## **About Me:**
 🔭 My name is Risc_lt, a trivial undergraduate student from **@SJTU** and maybe somehow also **@UMich**. 
 
