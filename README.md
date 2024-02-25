@@ -5,7 +5,7 @@
 
 💻 I’ve learnt a litte **Deep Learning**, **Web development**, **Computer Organization** and **Computer System**.
 
-🌏 I’m currently woring on **xv6-Risc-V**, **nemu**, **Tiger** and **mini-lsm**.
+🌏 I’m currently working on **xv6-Risc-V**, **nemu**, **Tiger** and **mini-lsm**.
 
 📜 I'm a big fan of **Golden State Warrior** and I enjoy listenning to **popular music** as well as playing **video games**.
 
