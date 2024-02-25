@@ -4,29 +4,26 @@
 
 <h3 align="center">Hey! it's me \ Risc_lt /. A trivial student from SJTU majoring in Electrical and Computer Engineering.</h3>
 
-<h3 align="center">Having dipped Deep Learning, Web development, Computer Organization, Network and Computer System, I'm now enthusiastic about Operating System and Database, as well as Compilation.</h3>
-
-<img src="[https://github.com/Risc-lt/Risc-lt/blob/main/IMG/Handwrite.jpg]" width = "1000" height = "200" align=center />
-
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
-
 ## **About Me:**
+🔭 My name is Risc_lt, a trivial undergraduate student from **@SJTU** and maybe somehow also **@UMich**. 
 
-- 🔭 I’m currently working with **Cpp** , **Python** and **JavaScript.**
-- 🌱 I’m currently learning **MIT 6.s081.**
-- 👯 I’m looking to collaborate on **Computer System.**
-- 👨‍💻 All of my projects are available at <a href="https://github.com/Risc-lt?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Risc-lt" height="30" width="40" /></a>
-- 📫 How to reach me: **Ruan_lt@outlook.com**
-- 💬 Ask for help with **OS, Assembly, Concurrency and Network**
+💻 I’ve learnt a litte **Deep Learning**, **Web development**, **Computer Organization** and **Computer System**.
+
+🌏 I’m currently woring on **xv6-Risc-V**, **nemu**, **Tiger** and **mini-lsm**.
+
+📜 I'm a big fan of **Golden State Warrior** and I enjoy listenning to **popular music** as well as playing **vedio games**.
+
+🤖 I'm used to being strictly **organized on a schedule** and pretty annoyed if any sudden interrupt.
+
+📫 How to reach me: **Ruan_lt@outlook.com**
+
+💬 All of my projects are available at <a href="https://github.com/Risc-lt?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Risc-lt" height="30" width="40" /></a>
+
+🌱 I’m looking to collaborate on **OS, Distribution, Concurrency and Network**
 
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Risc-lt&theme=radical&hide_border=true"/>
 </p>
-
-## **Next Step:**
-Computer System / Software Engineering / Computing Infrastruture / Database / Cryptography / Computer Graphics / Robotics / ? ? ?
-
-![image](https://github.com/Risc-lt/Risc-lt/blob/main/IMG/CS_mindmap.png)
 
 ## **Languages & Tools:**
 
@@ -43,7 +40,6 @@ Computer System / Software Engineering / Computing Infrastruture / Database / Cr
 
 ## **Github Stats:**
 
-<details>
   <summary>📊 <b>Github Readme Stats</b></summary>
  <br />
  <p align="center">
@@ -56,7 +52,6 @@ Computer System / Software Engineering / Computing Infrastruture / Database / Cr
  </p>
 </details>
 
-<details>
   <br />
   <summary>⚙️ <b> Things I use to get stuff done</b></summary>
   	<ul>
