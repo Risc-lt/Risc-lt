@@ -3,9 +3,9 @@
 ## **About Me:**
 🔭 My name is Risc_lt, a trivial undergraduate student from **@SJTU** and maybe somehow also **@UMich**. 
 
-💻 I’ve learnt a litte **Deep Learning**, **Web development**, **Computer Organization** and **Computer System**.
+💻 I’ve learnt a litte **Deep Learning**, **Web development**, **Operating System** and **Compilation**.
 
-🌏 I’m currently working on **xv6-Risc-V**, **nemu**, **Tiger** and **mini-lsm**.
+🌏 I’m currently working on **xv6-Risc-V**, **mini-lsm**, **bustub** and **Tiger**.
 
 📜 I'm a big fan of **Golden State Warrior** and I enjoy listenning to **popular music** as well as playing **video games**.
 
