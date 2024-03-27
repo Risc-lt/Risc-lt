@@ -5,7 +5,7 @@
 
 💻 I’ve learnt a litte **Deep Learning**, **Web development**, **Operating System** and **Compilation**.
 
-🌏 I’m currently working on **xv6-Risc-V**, **mini-lsm**, **bustub** and **Tiger**.
+🌏 I’m currently working on **xv6-riscv**, **mini-lsm**, **bustub** and **joj3**.
 
 📜 I'm a big fan of **Golden State Warrior** and I enjoy listenning to **popular music** as well as playing **video games**.
 
