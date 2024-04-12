@@ -3,9 +3,9 @@
 ## **About Me:**
 🔭 My name is Risc_lt, a trivial undergraduate student from **@SJTU** and maybe somehow also **@UMich**. 
 
-💻 I’ve learnt a litte **Deep Learning**, **Web development**, **Operating System** and **Compilation**.
+💻 I’ve learnt a litte **Deep Learning**, **Web development**, **Operating System** and **Computer Organization**.
 
-🌏 I’m currently working on **xv6-riscv**, **mini-lsm**, **bustub** and **joj3**.
+🌏 I’m currently working on **xv6-riscv**, **lsm-kv**, **bustub** and **joj3**.
 
 📜 I'm a big fan of **Golden State Warrior** and I enjoy listenning to **popular music** as well as playing **video games**.
 
@@ -41,11 +41,11 @@
 <details>
   <summary>⚙️ <b> Things I use to get stuff done</b></summary>
   	<ul>
-  	   <li><b>OS:</b> Windows 11 / Ubuntu 20.04(wsl2+docker) </li>
+  	   <li><b>OS:</b> Windows 11 / Ubuntu 20.04(wsl2) / Arch </li>
 	     <li><b>Laptop: </b> Lenovo Legion y7000p (Maybe Macbook Air in the few months)</li>
   	   <li><b>Browser: </b> Google Browser</li>
-	     <li><b>Code Editor:</b> VSCode / Clion / Pycharm / IntelliJ / Nvim </li>
-	     <li><b>To Stay Updated:</b> February 25th 2024</li>
+	     <li><b>Code Editor:</b> VSCode / IntelliJ / Nvim </li>
+	     <li><b>To Stay Updated:</b> April 12th 2024</li>
 	    <br />
 	</ul>
 </details>
