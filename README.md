@@ -40,6 +40,11 @@
 <a href="https://risc-lt.github.io" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="abhinandanraj" /></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Risc-lt&label=Visitors&color=0088cc&style=flat-square" alt="abhinandanraj" /> </p>
 
+## **Recent activities:**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 ## **Github States:**
 ![Risc-lt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Risc-lt&show_icons=true&bg_color=00000000)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Risc-lt&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
