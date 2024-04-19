@@ -12,5 +12,5 @@ jobs:
     steps:
       - uses: Risc-lt/waka-readme-stats@master
         with:
-          WAKATIME_API_KEY: ${{ waka_c91142f6-057f-42e7-9efd-744fe1403614 }}
+          WAKATIME_API_KEY: ${{ waka_b064cb2b-a88f-4579-b1f4-997bc4c37cd0 }}
           GH_TOKEN: ${{ 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 }}
