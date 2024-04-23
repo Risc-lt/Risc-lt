@@ -50,13 +50,13 @@
 
 > 📦 163.3 kB Used in GitHub's Storage 
  > 
-> 🏆 111 Contributions in the Year 2024
+> 🏆 100 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 📜 13 Public Repositories 
  > 
-> 🔑 5 Private Repositories 
+> 🔑 6 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -69,7 +69,7 @@
 ![Lines of Code chart](https://raw.githubusercontent.com/Risc-lt/Risc-lt/main/assets/bar_graph.png)
 
 
- Last Updated on 22/04/2024 18:37:58 UTC
+ Last Updated on 23/04/2024 18:38:12 UTC
 <!--END_SECTION:waka-->
 
 
