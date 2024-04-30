@@ -42,7 +42,7 @@
 
 ## **Recent activities:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-173%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-174%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -50,13 +50,11 @@
 
 > 📦 165.3 kB Used in GitHub's Storage 
  > 
-> 🏆 104 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 13 Public Repositories 
+> 📜 14 Public Repositories 
  > 
-> 🔑 6 Private Repositories 
+> 🔑 5 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -69,7 +67,7 @@
 ![Lines of Code chart](https://raw.githubusercontent.com/Risc-lt/Risc-lt/main/assets/bar_graph.png)
 
 
- Last Updated on 29/04/2024 18:38:58 UTC
+ Last Updated on 30/04/2024 18:39:34 UTC
 <!--END_SECTION:waka-->
 
 
