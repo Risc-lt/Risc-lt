@@ -25,12 +25,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,go,html,css,js,react,rust,python,pytorch" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,go,html,css,js,react,rust,python" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,docker,vim,vscode,git,mongodb,mysql,redis" />
+    <img src="https://skillicons.dev/icons?i=arch,docker,vim,vscode,git,mysql,cmake" />
   </a>
 </p>
 	
