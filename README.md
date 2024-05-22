@@ -5,7 +5,7 @@
 
 💻 I’ve learnt a litte **Deep Learning**, **Web development**, **Operating System** and **Database**.
 
-🌏 I’m currently working on **LSM-KV**, **Bustub-KV** and **Shared-kv**.
+🌏 I’m currently working on **LSM-KV**, **Bustub-KV** and **Shared-KV**.
 
 📜 I'm a big fan of **Golden State Warrior** and I enjoy listenning to **popular music** as well as playing **video games**.
 
