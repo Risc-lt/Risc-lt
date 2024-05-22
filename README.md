@@ -3,9 +3,9 @@
 ## **About Me:**
 🔭 My name is Risc_lt, a trivial undergraduate student from **@SJTU** and maybe somehow also **@UMich**. 
 
-💻 I’ve learnt a litte **Deep Learning**, **Web development**, **Operating System** and **Computer Organization**.
+💻 I’ve learnt a litte **Deep Learning**, **Web development**, **Operating System** and **Database**.
 
-🌏 I’m currently working on **mini-lsm**, **bustub** and **shared-kv**.
+🌏 I’m currently working on **LSM-KV**, **Bustub-KV** and **Shared-kv**.
 
 📜 I'm a big fan of **Golden State Warrior** and I enjoy listenning to **popular music** as well as playing **video games**.
 
@@ -15,7 +15,7 @@
 
 💬 All of my projects are available at <a href="https://github.com/Risc-lt?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Risc-lt" height="30" width="40" /></a>
 
-🌱 I’m looking to collaborate on **OS, Distribution, Concurrency and Network**
+🌱 I’m looking to collaborate on **OS, Concurrency, SQL and Network**
 
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Risc-lt&theme=radical&hide_border=true"/>
@@ -80,11 +80,11 @@
 <details>
   <summary>⚙️ <b> Things I use to get stuff done</b></summary>
   	<ul>
-  	   <li><b>OS:</b> Windows 11 / Ubuntu 20.04(wsl2) / Arch </li>
-	     <li><b>Laptop: </b> Lenovo Legion y7000p (Maybe Macbook Air in the few months)</li>
+  	   <li><b>OS:</b> Ubuntu 22.04 </li>
+	     <li><b>Laptop: </b> Lenovo Legion y7000p</li>
   	   <li><b>Browser: </b> Google Browser</li>
-	     <li><b>Code Editor:</b> VSCode / IntelliJ / Nvim </li>
-	     <li><b>To Stay Updated:</b> April 12th 2024</li>
+	     <li><b>Code Editor:</b> VSCode / IntelliJ </li>
+	     <li><b>To Stay Updated:</b> May 22th 2024</li>
 	    <br />
 	</ul>
 </details>
