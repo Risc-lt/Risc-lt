@@ -15,7 +15,7 @@
 
 💬 All of my projects are available at <a href="https://github.com/Risc-lt?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Risc-lt" height="30" width="40" /></a>
 
-🌱 I’m looking to collaborate on **OS, Concurrency, SQL and Network**
+🌱 I’m looking to collaborate on **OS, DB, DS and Network**
 
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Risc-lt&theme=radical&hide_border=true"/>
