@@ -42,13 +42,13 @@
 
 ## **Recent activities:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-218%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-223%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 176.5 kB Used in GitHub's Storage 
+> 📦 180.0 kB Used in GitHub's Storage 
  > 
 > 🏆 112 Contributions in the Year 2024
  > 
@@ -69,7 +69,7 @@
 ![Lines of Code chart](https://raw.githubusercontent.com/Risc-lt/Risc-lt/main/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2024 18:39:14 UTC
+ Last Updated on 30/05/2024 18:41:19 UTC
 <!--END_SECTION:waka-->
 
 
