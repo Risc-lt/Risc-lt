@@ -42,7 +42,7 @@
 
 ## **Recent activities:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-235%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -69,7 +69,7 @@
 ![Lines of Code chart](https://raw.githubusercontent.com/Risc-lt/Risc-lt/main/assets/bar_graph.png)
 
 
- Last Updated on 02/06/2024 18:39:22 UTC
+ Last Updated on 03/06/2024 18:41:36 UTC
 <!--END_SECTION:waka-->
 
 
