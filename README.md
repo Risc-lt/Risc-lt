@@ -50,8 +50,6 @@
 
 > 📦 186.4 kB Used in GitHub's Storage 
  > 
-> 🏆 115 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -69,7 +67,7 @@
 ![Lines of Code chart](https://raw.githubusercontent.com/Risc-lt/Risc-lt/main/assets/bar_graph.png)
 
 
- Last Updated on 09/06/2024 18:38:57 UTC
+ Last Updated on 10/06/2024 18:40:44 UTC
 <!--END_SECTION:waka-->
 
 
