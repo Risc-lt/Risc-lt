@@ -3,9 +3,9 @@
 ## **About Me:**
 🔭 My name is Risc_lt, a trivial undergraduate student from **@SJTU** and maybe somehow also **@UMich**. 
 
-💻 I’ve learnt a litte **Deep Learning**, **Web development**, **Operating System** and **Database**.
+💻 I’ve learnt a litte **Deep Learning**, **Full-stack development**, **Operating System** and **Database**.
 
-🌏 I’m currently working on **LSM-KV**, **Bustub-KV**, **Vector-DB** and **BreakOut**.
+🌏 I’m currently working on **LSM-KV**, **Bustub-KV**, **Vector-DB** and **Elm Game**.
 
 📜 I'm a big fan of **Golden State Warrior** and I enjoy listenning to **popular music** as well as playing **video games**.
 
