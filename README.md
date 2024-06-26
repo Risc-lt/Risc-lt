@@ -1,3 +1,5 @@
+![image](https://github.com/Risc-lt/Risc-lt/blob/main/IMG/Programming.png)
+
 ## **About Me:**
 
 <!--START_SECTION:waka-->
