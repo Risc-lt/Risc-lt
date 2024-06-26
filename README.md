@@ -15,13 +15,30 @@
 
 ## **Recent activities:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-327%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-328%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 203.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 127 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 11 Public Repositories 
+ > 
+> 🔑 10 Private Repositories 
+ > 
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 ```
+
+
+ Last Updated on 26/06/2024 05:34:14 UTC
 <!--END_SECTION:waka-->
 
 <div>
