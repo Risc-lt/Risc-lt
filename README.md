@@ -13,22 +13,6 @@
 
 🌱 I’m looking to collaborate on **OS, DB, DS and Network**
 
-![Risc-lt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Risc-lt&show_icons=true&bg_color=00000000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Risc-lt&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-💬 My projects: 
-
-- [xv6-riscv](https://github.com/Risc-lt/xv6-riscv) (A re-implementation of Dennis Ritchie's and Ken Thompson's Unix Version 6.)
-- [BusTub](https://github.com/Risc-lt/Bustub-KV) (A relational database management system supporting transaction processing, recovery and so on.)
-- [LSM-KV](https://github.com/Risc-lt/LSM-KV) (A key-value storage system based on LSM Tree and key-value separation technology based on modern C++.)
-- [ebookstore](https://github.com/Risc-lt/ebookstore) (A fully functional website for a Bookstore online shop based on Next.js and SpringBoot.)
-- [Vector-DB](https://github.com/Risc-lt/Vector-DB) (A tutorial on how to add vector capabilities to a relational database system.)
-- [kitty](https://github.com/Risc-lt/kitty) (A install and custom tutorial for kitty virtual terminal.)
-
-
-	
-
-
 ## **Recent activities:**
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-327%20hrs%2059%20mins-blue)
@@ -50,11 +34,24 @@
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 ```
+<!--END_SECTION:waka-->
+
+💬 My projects: 
+
+- [xv6-riscv](https://github.com/Risc-lt/xv6-riscv) (A re-implementation of Dennis Ritchie's and Ken Thompson's Unix Version 6.)
+- [BusTub](https://github.com/Risc-lt/Bustub-KV) (A relational database management system supporting transaction processing, recovery and so on.)
+- [LSM-KV](https://github.com/Risc-lt/LSM-KV) (A key-value storage system based on LSM Tree and key-value separation technology based on modern C++.)
+- [ebookstore](https://github.com/Risc-lt/ebookstore) (A fully functional website for a Bookstore online shop based on Next.js and SpringBoot.)
+- [Vector-DB](https://github.com/Risc-lt/Vector-DB) (A tutorial on how to add vector capabilities to a relational database system.)
+- [kitty](https://github.com/Risc-lt/kitty) (A install and custom tutorial for kitty virtual terminal.)
+
+![Risc-lt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Risc-lt&show_icons=true&bg_color=00000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Risc-lt&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Risc-lt/Risc-lt/main/assets/bar_graph.png)
-
-
  Last Updated on 25/06/2024 18:41:35 UTC
-<!--END_SECTION:waka-->
+
+
+
