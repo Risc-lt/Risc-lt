@@ -19,24 +19,17 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 203.9 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 14 Public Repositories 
- > 
-> 🔑 10 Private Repositories 
- > 
-📊 **This Week I Spent My Time On** 
-
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 ```
 <!--END_SECTION:waka-->
 
-💬 My projects: 
+<div>
+  <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Risc-lt&layout=donut"/>
+  <img align='center' src="https://git-status.ayaka.space/api?username=Risc-lt&count_private=true&show_icons=true&theme=vue-light&hide_title=true"/>
+</div>
+
+## Projects
 
 - [xv6-riscv](https://github.com/Risc-lt/xv6-riscv) (A re-implementation of Dennis Ritchie's and Ken Thompson's Unix Version 6.)
 - [BusTub](https://github.com/Risc-lt/Bustub-KV) (A relational database management system supporting transaction processing, recovery and so on.)
@@ -44,9 +37,6 @@
 - [ebookstore](https://github.com/Risc-lt/ebookstore) (A fully functional website for a Bookstore online shop based on Next.js and SpringBoot.)
 - [Vector-DB](https://github.com/Risc-lt/Vector-DB) (A tutorial on how to add vector capabilities to a relational database system.)
 - [kitty](https://github.com/Risc-lt/kitty) (A install and custom tutorial for kitty virtual terminal.)
-
-![Risc-lt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Risc-lt&show_icons=true&bg_color=00000000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Risc-lt&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 **Timeline**
 
