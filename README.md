@@ -1,5 +1,3 @@
-![image](https://github.com/Risc-lt/Risc-lt/blob/main/IMG/Programming.png)
-
 ## **About Me:**
 🔭 My name is Risc_lt, a trivial undergraduate student from **@SJTU** and maybe somehow also **@UMich**. 
 
@@ -13,32 +11,23 @@
 
 📫 How to reach me: **Ruan_lt@outlook.com**
 
-💬 All of my projects are available at <a href="https://github.com/Risc-lt?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Risc-lt" height="30" width="40" /></a>
-
 🌱 I’m looking to collaborate on **OS, DB, DS and Network**
 
-<p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Risc-lt&theme=radical&hide_border=true"/>
-</p>
+![Risc-lt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Risc-lt&show_icons=true&bg_color=00000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Risc-lt&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-## **Languages & Tools:**
+💬 My projects: 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,go,html,css,js,react,rust,python" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,docker,vim,vscode,git,mysql,cmake" />
-  </a>
-</p>
+- [xv6-riscv](https://github.com/Risc-lt/xv6-riscv) (A re-implementation of Dennis Ritchie's and Ken Thompson's Unix Version 6.)
+- [BusTub](https://github.com/Risc-lt/Bustub-KV) (A relational database management system supporting transaction processing, recovery and so on.)
+- [LSM-KV](https://github.com/Risc-lt/LSM-KV) (A key-value storage system based on LSM Tree and key-value separation technology based on modern C++.)
+- [ebookstore](https://github.com/Risc-lt/ebookstore) (A fully functional website for a Bookstore online shop based on Next.js and SpringBoot.)
+- [Vector-DB](https://github.com/Risc-lt/Vector-DB) (A tutorial on how to add vector capabilities to a relational database system.)
+- [kitty](https://github.com/Risc-lt/kitty) (A install and custom tutorial for kitty virtual terminal.)
+
+
 	
-## **Reach out to me:** ️
 
-<p align="center">
-<a href="https://risc-lt.github.io" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="abhinandanraj" /></a>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Risc-lt&label=Visitors&color=0088cc&style=flat-square" alt="abhinandanraj" /> </p>
 
 ## **Recent activities:**
 <!--START_SECTION:waka-->
@@ -69,25 +58,3 @@
 
  Last Updated on 25/06/2024 18:41:35 UTC
 <!--END_SECTION:waka-->
-
-
-## **Github States:**
-![Risc-lt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Risc-lt&show_icons=true&bg_color=00000000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Risc-lt&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-<details>
-  <summary>⚙️ <b> Things I use to get stuff done</b></summary>
-  	<ul>
-  	   <li><b>OS:</b> Ubuntu 22.04 </li>
-	     <li><b>Laptop: </b> Lenovo Legion y7000p</li>
-  	   <li><b>Browser: </b> Google Browser</li>
-	     <li><b>Code Editor:</b> VSCode / IntelliJ </li>
-	     <li><b>To Stay Updated:</b> May 22th 2024</li>
-	    <br />
-	</ul>
-</details>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Risc-lt&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!--
-**Risc-lt/Risc-lt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
