@@ -1,4 +1,9 @@
 ## **About Me:**
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-328%20hrs%2026%20mins-blue)
+<!--END_SECTION:waka-->
+
 🔭 My name is Risc_lt, a trivial undergraduate student from **@SJTU** and maybe somehow also **@UMich**. 
 
 💻 I’ve learnt a litte **Deep Learning**, **Full-stack development**, **Operating System** and **Database**.
@@ -12,22 +17,6 @@
 📫 How to reach me: **Ruan_lt@outlook.com**
 
 🌱 I’m looking to collaborate on **OS, DB, DS and Network**
-
-## **Recent activities:**
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-328%20hrs%2026%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-```
-
-
- Last Updated on 26/06/2024 05:36:47 UTC
-<!--END_SECTION:waka-->
 
 <div>
   <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Risc-lt&layout=donut"/>
@@ -43,10 +32,14 @@
 - [Vector-DB](https://github.com/Risc-lt/Vector-DB) (A tutorial on how to add vector capabilities to a relational database system.)
 - [kitty](https://github.com/Risc-lt/kitty) (A install and custom tutorial for kitty virtual terminal.)
 
+## **Recent activities:**
+
+<!--START_SECTION:waka-->
+```text
+🕑︎ Time Zone: Asia/Shanghai
+```
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Risc-lt/Risc-lt/main/assets/bar_graph.png)
- Last Updated on 25/06/2024 18:41:35 UTC
-
-
-
+<!--END_SECTION:waka-->
