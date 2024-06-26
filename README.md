@@ -10,7 +10,7 @@
 
 💻 I’ve learnt a litte **Deep Learning**, **Full-stack development**, **Operating System** and **Database**.
 
-🌏 I’m currently working on **LSM-KV**, **Bustub-KV**, **Vector-DB** and **Elm Game**.
+🌏 I’m currently working on **Bustub-KV**, **jcourse** and **Elm Game**.
 
 📜 I'm a big fan of **Golden State Warrior** and I enjoy listenning to **popular music** as well as playing **video games**.
 
