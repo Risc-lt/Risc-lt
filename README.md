@@ -4,7 +4,6 @@
 ![Code Time](http://img.shields.io/badge/Code%20Time-328%20hrs%2026%20mins-blue)
 
 
- Last Updated on 26/06/2024 05:47:23 UTC
 <!--END_SECTION:waka-->
 
 🔭 My name is Risc_lt, a trivial undergraduate student from **@SJTU** and maybe somehow also **@UMich**. 
