@@ -19,18 +19,6 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 203.9 kB Used in GitHub's Storage 
- > 
-> 🏆 127 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 11 Public Repositories 
- > 
-> 🔑 10 Private Repositories 
- > 
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -38,7 +26,7 @@
 ```
 
 
- Last Updated on 26/06/2024 05:34:14 UTC
+ Last Updated on 26/06/2024 05:36:47 UTC
 <!--END_SECTION:waka-->
 
 <div>
