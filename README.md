@@ -21,8 +21,8 @@
 🌱 I’m looking to collaborate on **OS, DB, DS and Network**
 
 <div>
-  <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Risc-lt&layout=donut"/>
   <img align='center' src="https://git-status.ayaka.space/api?username=Risc-lt&count_private=true&show_icons=true&theme=vue-light&hide_title=true"/>
+  <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Risc-lt&layout=donut"/>
 </div>
 
 ## Projects
