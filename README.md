@@ -24,7 +24,7 @@
 
 <div>
   <img align='center' src="https://git-status.ayaka.space/api?username=Risc-lt&count_private=true&show_icons=true&theme=vue-light&hide_title=true"/>
-  <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Risc-lt&layout=compact"/>
+  <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Risc-lt&layout=compact&hide=css,html"/>
 </div>
 
 ## Projects
