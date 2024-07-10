@@ -5,7 +5,9 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-358%20hrs%2035%20mins-blue)
 
+**Timeline**
 
+![Lines of Code chart](https://raw.githubusercontent.com/Risc-lt/Risc-lt/main/assets/bar_graph.png)
 <!--END_SECTION:waka-->
 
 🔭 My name is Risc_lt, a trivial undergraduate student from **@SJTU** and maybe somehow also **@UMich**. 
@@ -42,6 +44,4 @@
 🕑︎ Time Zone: Asia/Shanghai
 ```
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/Risc-lt/Risc-lt/main/assets/bar_graph.png)
