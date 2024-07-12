@@ -3,7 +3,9 @@
 ## **About Me:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-366%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-366%20hrs%2026%20mins-blue)
+
+
 <!--END_SECTION:waka-->
 
 🔭 My name is Risc_lt, a trivial undergraduate student from **@SJTU** and maybe somehow also **@UMich**. 
