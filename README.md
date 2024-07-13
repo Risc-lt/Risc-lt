@@ -42,9 +42,11 @@
 🕑︎ Time Zone: Asia/Shanghai
 ```
 
+<!--
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Risc-lt/Risc-lt/main/assets/bar_graph.png)
+-->
 
 **Contribution sheet**
 
