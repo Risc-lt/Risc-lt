@@ -46,7 +46,7 @@
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Risc-lt/Risc-lt/main/assets/bar_graph.png)
 
- Last Updated on 12/07/2024 05:31:15 UTC
+**Contribution sheet**
 
 <!--   profile-green-animate -->
 
