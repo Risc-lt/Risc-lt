@@ -10,9 +10,9 @@
 
 🔭 My name is Risc_lt, a trivial undergraduate student from **@SJTU** and maybe somehow also **@UMich**. 
 
-💻 I’ve learnt a litte **Deep Learning**, **Full-stack development**, **Operating System** and **Database**.
+💻 I’ve learnt a litte **Deep Learning**, **Full-stack Development**, **Operating System** and **Database**.
 
-🌏 I’m currently working on **Bustub-KV**, **jCourse** and **Elm Game**.
+🌏 I’m currently working on **Bustub-KV**, **jCourse** and **ebookstore**.
 
 📜 I'm a big fan of **Golden State Warrior** and I enjoy listenning to **popular music** as well as playing **video games**.
 
@@ -20,7 +20,7 @@
 
 📫 How to reach me: **Ruan_lt@outlook.com**
 
-🌱 I’m looking to collaborate on **OS, DB, Web and Darabase**
+🌱 I’m looking to collaborate on **DB, Mlsys and Back-end**
 
 <div>
   <img align='center' src="https://git-status.ayaka.space/api?username=Risc-lt&count_private=true&show_icons=true&theme=vue-light&hide_title=true"/>
