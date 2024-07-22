@@ -12,7 +12,7 @@
 
 💻 I’ve learnt a litte **Deep Learning**, **Full-stack Development**, **Operating System** and **Database**.
 
-🌏 I’m currently working on **Bustub-KV**, **jCourse** and **ebookstore**.
+🌏 I’m currently working on **Bustub-KV** and **jCourse** and seeking research opportunities in **Fedarated Learning**
 
 📜 I'm a big fan of **Golden State Warrior** and I enjoy listenning to **popular music** as well as playing **video games**.
 
