@@ -12,15 +12,15 @@
 
 💻 I’ve learnt a litte **Deep Learning**, **Full-stack Development**, **Operating System** and **Database**.
 
-🌏 I’m currently working on **Bustub-KV** and **jCourse** and seeking research opportunities in **Fedarated Learning**
+🌏 I’m currently working on **Bustub-KV**, **jCourse**, **minitorch** and **DistriSys**.
+
+⚡ I'm seeking research opportunities and internship in **MLSys** and **DB**.
 
 📜 I'm a big fan of **Golden State Warrior** and I enjoy listenning to **popular music** as well as playing **video games**.
 
-🤖 I'm used to being strictly **organized on a schedule** and pretty annoyed if any sudden interrupt.
+🌱 I'm used to being strictly **organized on a schedule** and pretty annoyed if any sudden interrupt.
 
 📫 How to reach me: **Ruan_lt@outlook.com**
-
-🌱 I’m looking to collaborate on **DB, Mlsys and Back-end**
 
 <div>
   <img align='center' src="https://git-status.ayaka.space/api?username=Risc-lt&count_private=true&show_icons=true&theme=vue-light&hide_title=true"/>
