@@ -3,7 +3,7 @@
 ## **About Me:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-462%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-464%20hrs%207%20mins-blue)
 
 
 <!--END_SECTION:waka-->
