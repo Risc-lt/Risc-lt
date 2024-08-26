@@ -1,4 +1,4 @@
-![image](https://github.com/Risc-lt/Risc-lt/blob/main/IMG/Programming.png)
+<!-- ![image](https://github.com/Risc-lt/Risc-lt/blob/main/IMG/Programming.png) -->
 
 ## **About Me:**
 
@@ -8,7 +8,7 @@
 
 <!--END_SECTION:waka-->
 
-🔭 My name is Risc_lt, a trivial undergraduate student from **@SJTU** and maybe somehow also **@UMich**. 
+🔭 Hello, I'm Risc_lt, a trivial undergraduate student from **@SJTU** and maybe somehow also **@UMich**. 
 
 💻 I’ve learnt a litte **Deep Learning**, **Full-stack Development**, **Operating System** and **Database**.
 
@@ -27,6 +27,7 @@
   <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Risc-lt&layout=compact&hide=css,html"/>
 </div>
 
+<!--
 ## Projects
 - [xv6-riscv](https://github.com/Risc-lt/xv6-riscv) (A re-implementation of Dennis Ritchie's and Ken Thompson's Unix Version 6.)
 - [BusTub](https://github.com/Risc-lt/Bustub-KV) (A relational database management system supporting transaction processing, recovery and so on.)
@@ -34,6 +35,7 @@
 - [LSM-KV](https://github.com/Risc-lt/LSM-KV) (A key-value storage system based on LSM Tree and key-value separation technology based on modern C++.)
 - [ebookstore](https://github.com/Risc-lt/ebookstore) (A fully functional website for a Bookstore online shop based on Next.js and SpringBoot.)
 - [kitty](https://github.com/Risc-lt/kitty) (An install and custom tutorial for kitty virtual terminal.)
+-->
 
 ## **Recent activities:**
 
