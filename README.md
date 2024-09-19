@@ -4,15 +4,7 @@
 <h2 align="center"> About Me: </h2>
 
 <!--START_SECTION:waka-->
-<p align="center">
-  <a href="https://github.com/nnnLik">
-    <img align="center"
-         height="20em"
-         src="http://img.shields.io/badge/Code%20Time-486%20hrs%2055%20mins-blue" />
-  </a>
-</p>
-
-<!-- ![Code Time](http://img.shields.io/badge/Code%20Time-486%20hrs%2055%20mins-blue) -->
+![Code Time](http://img.shields.io/badge/Code%20Time-488%20hrs%2022%20mins-blue)
 
 
 <!--END_SECTION:waka-->
