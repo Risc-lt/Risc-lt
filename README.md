@@ -1,9 +1,18 @@
 <!-- ![image](https://github.com/Risc-lt/Risc-lt/blob/main/IMG/Programming.png) -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-## **About Me:**
+<h2 align="center"> About Me: </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-486%20hrs%2055%20mins-blue)
+<p align="center">
+  <a href="https://github.com/nnnLik">
+    <img align="center"
+         height="20em"
+         src="http://img.shields.io/badge/Code%20Time-486%20hrs%2055%20mins-blue" />
+  </a>
+</p>
+
+<!-- ![Code Time](http://img.shields.io/badge/Code%20Time-486%20hrs%2055%20mins-blue) -->
 
 
 <!--END_SECTION:waka-->
@@ -37,11 +46,14 @@
 - [kitty](https://github.com/Risc-lt/kitty) (An install and custom tutorial for kitty virtual terminal.)
 -->
 
-## **Recent activities:**
+<h2 align="center"> Recent activities: </h2>
+
+<div style="text-align: center;"></div>
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 ```
+
 
 <!--
 **Timeline**
@@ -54,3 +66,5 @@
 <!--   profile-green-animate -->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/> 
