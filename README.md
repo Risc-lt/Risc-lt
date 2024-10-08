@@ -13,13 +13,13 @@
 
 💻 I’ve learnt a litte **Deep Learning**, **Full-stack Development**, **Operating System** and **Database**.
 
-🌏 I’m currently working on **Bustub-KV**, **jCourse**, **minitorch** and **DistriSys**.
+🌏 I’m currently working on **jCourse** and **chfs**.
 
-⚡ I'm seeking research opportunities and internship in **MLSys** and **DB**.
+<!--⚡ I'm seeking research opportunities and internship in **MLSys** and **DB**.-->
 
 📜 I'm a big fan of **Golden State Warrior** and I enjoy listenning to **popular music** as well as playing **video games**.
 
-🌱 I'm used to being strictly **organized on a schedule** and pretty annoyed if any sudden interrupt.
+🌱 I'm used to being strictly **organized on a schedule** and pretty annoyed if any sudden interruption.
 
 📫 How to reach me: **Ruan_lt@outlook.com**
 
@@ -50,6 +50,7 @@
 <!--
 **Timeline**
 
+
 ![Lines of Code chart](https://raw.githubusercontent.com/Risc-lt/Risc-lt/main/assets/bar_graph.png)
 -->
 
@@ -57,6 +58,6 @@
 
 <!--   profile-green-animate -->
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<!--![](./profile-3d-contrib/profile-night-rainbow.svg) -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/> 
