@@ -56,6 +56,8 @@
 
 **Contribution sheet**
 
+![Risc_lt's github activity graph](https://raw.githubusercontent.com/Risc-lt/Risc-lt/output/github-contribution-grid-snake.svg)
+
 <!--   profile-green-animate -->
 
 <!--![](./profile-3d-contrib/profile-night-rainbow.svg) -->
