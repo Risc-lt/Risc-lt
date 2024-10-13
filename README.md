@@ -13,7 +13,7 @@
 
 💻 I’ve learnt a litte **Deep Learning**, **Full-stack Development**, **Operating System** and **Database**.
 
-🌏 I’m currently working on **jCourse** and **chfs**.
+🌏 I’m currently working on **FaaSBoard**, **chfs** and **jCourse**.
 
 <!--⚡ I'm seeking research opportunities and internship in **MLSys** and **DB**.-->
 
