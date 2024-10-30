@@ -11,7 +11,7 @@
 
 🔭 Hello, I'm Risc_lt, a trivial undergraduate student from **@SJTU** and maybe somehow also **@UMich**. 
 
-💻 I’ve learnt a litte **Deep Learning**, **Full-stack Development**, **Operating System** and **Database**.
+💻 I’ve learnt a litte **Graph Computing System**, **Cloud Computing**, **Operating System**, **Database** and **Full-stack Development**.
 
 🌏 I’m currently working on **FaaSBoard**, **chfs** and **jCourse**.
 
