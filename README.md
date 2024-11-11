@@ -4,6 +4,8 @@
 <h2 align="center"> About Me: </h2>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-520%20hrs%2048%20mins-blue)
+
 
 <!--END_SECTION:waka-->
 
