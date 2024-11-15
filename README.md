@@ -11,7 +11,7 @@
 
 🔭 Hello, I'm Risc_lt, a trivial undergraduate student from **@SJTU** and maybe somehow also **@UMich**. 
 
-💻 I’ve learnt a litte **HPC(Graph)**, **Cloud(FaaS)**, **OS**, **DB(OLTP)** and **Web(FSD)**.
+💻 I’ve learnt a litte **HPC(Graph)**, **DB(OLTP)**, **OS(Microkernel)**, **Cloud(FaaS)** and **Web(FSD)**.
 
 🌏 I’m currently working on **FaaSBoard**, **chfs** and **jCourse**.
 
