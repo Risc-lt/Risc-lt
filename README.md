@@ -1,7 +1,8 @@
 <!-- ![image](https://github.com/Risc-lt/Risc-lt/blob/main/IMG/Programming.png) -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/> -->
 
-<h2 align="center"> About Me: </h2>
+<!-- <h2 align="center"> About Me: </h2> -->
+### About Me
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-531%20hrs%2057%20mins-blue)
@@ -9,13 +10,11 @@
 
 <!--END_SECTION:waka-->
 
-🔭 Hello, I'm Risc_lt, a trivial undergraduate student from **@SJTU** and maybe somehow also **@UMich**. 
+🔭 Hi, I'm Risc_lt, a trivial undergraduate student from **@SJTU** and maybe somehow also **@UMich**. 
 
-💻 I’ve learnt a litte **HPC(Graph)**, **DB(OLTP)**, **OS(Microkernel)**, **Cloud(FaaS)** and **Web(FSD)**.
+💻 My interest focus on **HPC(Graph)**, **DB(OLTP)**, **OS(Microkernel)**, **Cloud(FaaS)** and **Web(Full)**.
 
-🌏 I’m currently working on **FaaSBoard**, **chfs** and **jCourse**.
-
-<!--⚡ I'm seeking research opportunities and internship in **MLSys** and **DB**.-->
+🌏 I’m currently working on building a high-performance computing system and enhancing a distributed database.
 
 📜 I'm a big fan of **Golden State Warrior** and I enjoy listenning to **popular music** as well as playing **video games**.
 
@@ -38,14 +37,15 @@
 - [kitty](https://github.com/Risc-lt/kitty) (An install and custom tutorial for kitty virtual terminal.)
 -->
 
-<h2 align="center"> Recent activities: </h2>
+<!-- <h2 align="center"> Recent activities: </h2> -->
 
-<div style="text-align: center;"></div>
+<!-- <div style="text-align: center;"></div> -->
 
+<!--
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 ```
-
+-->
 
 <!--
 **Timeline**
@@ -54,12 +54,13 @@
 ![Lines of Code chart](https://raw.githubusercontent.com/Risc-lt/Risc-lt/main/assets/bar_graph.png)
 -->
 
-**Contribution sheet**
+<!-- **Contribution sheet**
 
 ![Risc_lt's github activity graph](https://raw.githubusercontent.com/Risc-lt/Risc-lt/output/github-contribution-grid-snake.svg)
+-->
 
 <!--   profile-green-animate -->
 
 <!--![](./profile-3d-contrib/profile-night-rainbow.svg) -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/> 
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/> -->
