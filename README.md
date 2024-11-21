@@ -12,9 +12,9 @@
 
 🔭 Hi, I'm Risc_lt, a trivial undergraduate student from **@SJTU** and maybe somehow also **@UMich**. 
 
-💻 My interest focus on **HPC(Graph)**, **DB(OLTP)**, **OS(Microkernel)**, **Cloud(FaaS)** and **Web(Full)**.
+💻 My interest inlcudes **HPC(Graph)**, **DB(OLTP)**, **OS(Microkernel)**, **Cloud(FaaS)** and **Web(Full)**.
 
-🌏 I’m currently working on building a high-performance computing system and enhancing a distributed database.
+🌏 I’m currently focusing on building a high-performance computing system and enhancing a distributed database.
 
 📜 I'm a big fan of **Golden State Warrior** and I enjoy listenning to **popular music** as well as playing **video games**.
 
