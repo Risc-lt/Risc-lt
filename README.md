@@ -1,8 +1,10 @@
 <!-- ![image](https://github.com/Risc-lt/Risc-lt/blob/main/IMG/Programming.png) -->
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/> -->
 
-<!-- <h2 align="center"> About Me: </h2> -->
-### About Me
+<h3> 𝑆𝑡𝑎𝑦 ℎ𝑢𝑛𝑔𝑟𝑦, 𝑠𝑡𝑎𝑦 𝑓𝑜𝑜𝑙𝑖𝑠ℎ. </h3>
+<!-- <h4> We are not just highly skilled engineers but, first and foremost, humans.</h4> -->
+
+***
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-542%20hrs%2041%20mins-blue)
