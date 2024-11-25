@@ -20,7 +20,7 @@
 
 <!-- 🌏 Strictly **organized on a schedule** and pretty annoyed if any sudden interruption. -->
 
-🌹 Appreciate all kinds of research collaborations and internship offers and here's my [CV]()(last updated 01/11/2024).
+🌹 Appreciate all kinds of research collaborations and internship offers and here's my [CV](https://github.com/Risc-lt/Risc-lt/blob/main/docs/resume-en.pdf)(last updated 01/11/2024).
 
 📫 How to reach me: **Ruan_lt@outlook.com**
 
