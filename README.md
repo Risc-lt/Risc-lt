@@ -7,7 +7,9 @@
 ***
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-542%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-542%20hrs%2046%20mins-blue)
+
+
 <!--END_SECTION:waka-->
 
 🎓 Sophomore **@UM-SJTU Joint Institute**.
