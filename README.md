@@ -14,7 +14,7 @@
 
 🎓 Sophomore **@UM-SJTU Joint Institute**.
 
-🔭 System Engineering Research Assistant **@SJTU-EPCC**, focusing on cloud computing systems and databases.
+🔭 System Engineering Research Assistant **@SJTU-EPCC**, focusing on parallel computing and cloud databases.
 
 💻 Daily _*Nix_ user and Web dev newbie - Member of **@SJTUG** and **@jCourse**, Ex **@Tech-JI**.
 
