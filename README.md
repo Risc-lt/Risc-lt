@@ -16,7 +16,7 @@
 
 🔭 System Engineering Research Assistant **@SJTU-EPCC**, focusing on cloud computing systems and databases.
 
-💻 Daily _*Nix_ user - Member of **@SJTUG** and **@Tech-JI**.
+💻 Daily _*Nix_ user and Web dev newbie - Member of **@SJTUG** and **@jCourse**, Ex **@Tech-JI**.
 
 🏀 Hoops Junkie and Casual Gamer - Big fan of **Golden State Warrior** and **Hollow Knight**.
 
