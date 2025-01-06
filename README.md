@@ -14,7 +14,7 @@
 
 🎓 Sophomore **[@UM-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/)**.
 
-🔭 System Engineering Research Assistant **[@SJTU-EPCC](http://epcc.sjtu.edu.cn/)**, focusing on LLM inferring, cloud computing and databases.
+🔭 System Engineering Research Assistant **[@SJTU-EPCC](http://epcc.sjtu.edu.cn/)**, focusing on LLM inferring, parallel computing and cloud databases.
 
 💻 Daily _*Nix_ user and Web dev newbie - Member of **[@SJTUG](https://github.com/sjtug)** and **[@jCourse](https://github.com/SJTU-jCourse)**, Ex **[@Tech-JI](https://github.com/Tech-JI)**.
 
