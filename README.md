@@ -7,6 +7,8 @@
 ***
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-615%20hrs%2044%20mins-blue)
+
 
 <!--END_SECTION:waka-->
 
