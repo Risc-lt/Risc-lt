@@ -1,8 +1,4 @@
-<!-- ![image](https://github.com/Risc-lt/Risc-lt/blob/main/IMG/Programming.png) -->
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/> -->
-
 <h3> 𝑆𝑡𝑎𝑦 ℎ𝑢𝑛𝑔𝑟𝑦, 𝑠𝑡𝑎𝑦 𝑓𝑜𝑜𝑙𝑖𝑠ℎ. </h3>
-<!-- <h4> We are not just highly skilled engineers but, first and foremost, humans.</h4> -->
 
 ***
 
@@ -14,43 +10,10 @@
 
 🎓 Sophomore **[@UMich](https://www.engin.umich.edu/)** and **[@SJTU](https://www.ji.sjtu.edu.cn/)**.
 
-🔭 System Engineering Research Assistant **[@SJTU-EPCC](http://epcc.sjtu.edu.cn/)**, focusing on MLSys, AI infra and HPC.
+🔭 System Engineering Research Assistant **[@SJTU-EPCC](http://epcc.sjtu.edu.cn/)**, focusing on MLSys from both sys and algo sides.
 
-💻 Daily _*Nix_ user and Web dev newbie - Member of **[@SJTUG](https://github.com/sjtug)** and **[@jCourse](https://github.com/SJTU-jCourse)**, Ex **[@Tech-JI](https://github.com/Tech-JI)**.
+💻 Daily _*Nix_ user and casual contributor - Member of **[@SJTUG](https://github.com/sjtug)** and **[@jCourse](https://github.com/SJTU-jCourse)**, Ex **[@Tech-JI](https://github.com/Tech-JI)**.
 
-🏀 Hoops Junkie and Casual Gamer - Big fan of **Golden State Warrior** and **Hollow Knight**.
-
-<!-- 🌏 Strictly **organized on a schedule** and pretty annoyed if any sudden interruption. -->
-
-🌹 Appreciate all kinds of research collaborations and internship offers.
+🏀 Hoops Junkie and Slight Gamer - Big fan of **Golden State Warrior** and **Hollow Knight**.
 
 📫 How to reach me: **Ruan_lt@outlook.com**
-
-<div>
-  <img align='center' src="https://git-status.ayaka.space/api?username=Risc-lt&count_private=true&show_icons=true&theme=vue-light&hide_title=true"/>
-  <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Risc-lt&layout=compact&hide=css,html"/>
-</div>
-
-<!--
-```text
-🕑︎ Time Zone: Asia/Shanghai
-```
--->
-
-<!--
-**Timeline**
-
-
-![Lines of Code chart](https://raw.githubusercontent.com/Risc-lt/Risc-lt/main/assets/bar_graph.png)
--->
-
-<!-- **Contribution sheet**
-
-![Risc_lt's github activity graph](https://raw.githubusercontent.com/Risc-lt/Risc-lt/output/github-contribution-grid-snake.svg)
--->
-
-<!--   profile-green-animate -->
-
-<!--![](./profile-3d-contrib/profile-night-rainbow.svg) -->
-
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/> -->
